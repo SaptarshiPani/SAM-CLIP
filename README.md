@@ -11,8 +11,8 @@ Result Visualizations :- <br />
 1. Segmentation Mask Visualization on KvasirCapsule-SEG Dataset which is trained on Kvasir-SEG Dataset (3-shot) :- <br />
  <br />
 2. Segmentation Mask Visualization on Kvasir-SEG Dataset which is trained on KvasirCapsule-SEG Dataset (3-shot) :- <br />
-![Image](https://github.com/user-attachments/assets/879b7480-f5c7-43df-8020-10e9bb6b69d7) <br />
-![Image](https://github.com/user-attachments/assets/39a8496b-8ffe-4192-82ca-52f13910aba8) <br />
+![Image](https://github.com/user-attachments/assets/c6a0e649-6413-4cba-a0db-cd6dae885d33) <br />
+![Image](https://github.com/user-attachments/assets/b71c33b1-83f9-4e95-acd7-c46d889ead5b) <br />
 3. Segmentation Mask Visualization on PH2 Dataset which is trained on ISIC 2016 Dataset (3-shot) :- <br />
  <br />
 4. Segmentation Mask Visualization on ISIC 2016 Dataset which is trained on PH2 Dataset (3-shot) :- <br />
