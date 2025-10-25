@@ -17,9 +17,10 @@ Result Visualizations :- <br />
 4. Segmentation Mask Visualization on PH2 Dataset which is trained on ISIC 2016 Dataset (3-shot) :- <br />
 ...
 5. Segmentation Mask Visualization on ISIC 2016 Dataset which is trained on PH2 Dataset (3-shot) :- <br />
-...
+![Image](https://github.com/user-attachments/assets/616ce8a0-c831-41ee-a457-f80ed0e784a7)
+![Image](https://github.com/user-attachments/assets/c6960e63-d74c-4f4e-8ac9-2dd03fc82eab)
 <br /><br />
-6. State-of-the-Art Comparison on KvasirSEG dataset. All values are in %. Bold values indicate best results. <br />
+7. State-of-the-Art Comparison on KvasirSEG dataset. All values are in %. Bold values indicate best results. <br />
 
 <br /><br />
 References :- <br />
