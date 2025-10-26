@@ -2,7 +2,7 @@ Title - "Segment Anything Model with Refined-Prompts for Multimodal Cross-Data F
 Authors - Bhumika Adhya, Saptarshi Pani, 3rd Author, Dmitrii Kaplun, Ram Sarkar. <br />
 
 Architecture :- <br />
-
+<img width="1167" height="461" alt="Image" src="https://github.com/user-attachments/assets/404c4d45-cdd6-4d0b-af95-7e7575950f9a" />
 <br /><br />
 Result Table :- <br />
 <img width="812" height="436" alt="image" src="https://github.com/user-attachments/assets/d99efadf-88f8-4669-938b-f6ee17fae256" />
