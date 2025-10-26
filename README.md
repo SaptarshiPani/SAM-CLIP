@@ -1,4 +1,4 @@
-Title - "Segment Anything Model with Refined-Prompts for Cross-Data Few-shot Medical Image Segmentation". <br />
+Title - "Segment Anything Model with Refined-Prompts for Multimodal Cross-Data Few-shot Medical Image Segmentation". <br />
 Authors - Bhumika Adhya, Saptarshi Pani, 3rd Author, Dmitrii Kaplun, Ram Sarkar. <br />
 
 Architecture :- <br />
