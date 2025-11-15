@@ -1,5 +1,5 @@
 Title - "Segment Anything Model with Refined-Prompts for Multimodal Cross-Data Few-shot Medical Image Segmentation". <br />
-Authors - Bhumika Adhya, Saptarshi Pani, 3rd Author, Dmitrii Kaplun, Ram Sarkar. <br />
+Authors - Bhumika Adhya, Saptarshi Pani, Irina Shpakovskaya, Dmitrii Kaplun, Ram Sarkar. <br />
 
 Architecture :- <br />
 <img width="1167" height="461" alt="Image" src="https://github.com/user-attachments/assets/404c4d45-cdd6-4d0b-af95-7e7575950f9a" />
