@@ -1,5 +1,6 @@
 Title - "Segment Anything Model with Refined-Prompts for Multimodal Cross-Data Few-shot Medical Image Segmentation". <br />
 Authors - Bhumika Adhya, Saptarshi Pani, Irina Shpakovskaya, Dmitrii Kaplun, Ram Sarkar. <br />
+Conference - International Symposium on Biomedical Imaging 2026. <br />
 
 Code Files :- <br />
 BaseSAM(SamPredictor).ipynb -> Code implementation of the Learnable SAM model used in the study. <br />
